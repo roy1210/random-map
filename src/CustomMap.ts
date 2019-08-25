@@ -1,6 +1,3 @@
-import { Company } from './Company';
-import { User } from './User';
-
 // Instructions to every other class
 // on how they can be an argument to 'addMarker'
 interface Mappable {
@@ -33,6 +30,4 @@ export class CustomMap {
       }
     });
   }
-
-  //   addCompanyMarker(company: Company): void {}
 }
