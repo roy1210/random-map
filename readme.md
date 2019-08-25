@@ -27,3 +27,4 @@ $ parcel index.html
 ## Tools
 
 - Faker: generate fake data
+- Maps JavaScript API (Google API Console )
