@@ -26,7 +26,7 @@ $ npm install
 $ parcel index.html
 ```
 
--> Open http://localhost:1234 in your browser.
+-> Copy and open localhost in your browser.
 
 ## Tools
 
