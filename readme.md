@@ -2,7 +2,7 @@
 
 ## Description
 
-Randomly generate User and Company, and then show  both locations on google map
+Randomly generate User and Company, and then show both locations on google map
 
 **_DEMO:_**
 
