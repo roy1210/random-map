@@ -4,6 +4,10 @@
 
 Randomly generate User and Company, and then show  both locations on google map
 
+**_DEMO:_**
+
+<img src="./src/img/190826ts-map.jpg" width="80%">
+
 ## Requirement
 
 - npm
